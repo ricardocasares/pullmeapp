@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "dotenv": "^4.0.0",
-    "nodemon": "^1.14.7"
+    "nodemon": "^1.14.8"
   },
   "scripts": {
     "start": "node index.js",
